@@ -1,0 +1,66 @@
+body{background: url(congruent_pentagon.png);}
+
+.class-inform h1{
+	text-align:center; 
+  font-size:2em/1.5 serif;
+  border-width:9px; border-style:solid;
+}
+
+.class-inform h3{
+	color:#A42D00;
+  text-align:center; 
+  font-size:1em/1.5 serif;
+  border-bottom:1px solid;
+  margin-left:10%; 
+margin-right:10%; 
+   }
+
+.class-inform p{
+text-align:center; 
+margin-bottom: 2em;
+}
+
+.schedule>li{
+ padding:10px 10px;  
+}
+.schedule>li:nth-child(odd){
+  background-color:rgba(255,255,255,0.5);
+}
+.class-thing h3{
+color:#A42D00;	
+text-align:center; 
+  font-size:1em/1.5 serif;
+  border-bottom:1px solid;
+  margin-left:10%; 
+margin-right:10%;  
+}
+
+.class-thing p{
+	text-align:center; 
+	margin-bottom: 2em;
+	}
+
+.pic img{
+	display:block;
+  margin: auto;
+  max-width: 400px;
+  max-height: 400px;
+}
+.pic h3{
+color:#A42D00;	
+text-align:center; 
+  font-size:1em/1.5 serif;
+  
+}
+
+.ability>li{
+	text-align:center; 
+	border-bottom:1px solid;
+	margin-left:35%; 
+margin-right:35%; 
+margin-bottom: 30px;
+}
+
+.pic a{
+	font-size:1cm/1.5 serif;
+}
